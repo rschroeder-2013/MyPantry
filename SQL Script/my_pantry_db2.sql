@@ -48,9 +48,9 @@ GO
 INSERT INTO [dbo].[MPUser]
 	([Email], [FirstName], [LastName], [PhoneNumber])
 	VALUES
-	('rschroeder@mypantry.com', 'Rick', 'Schroeder', '5202701968'),
-	('snobriga@mypantry.com', 'Sthefany', 'Nobriga', '3195944492'),
-	('mstreet@mypantry.com', 'Monica', 'Street', '3198009927')
+	('rschroeder@mypantry.com', 'Rick', 'Schroeder', '1234567890'),
+	('snobriga@mypantry.com', 'Sthefany', 'Nobriga', '1234567890'),
+	('mstreet@mypantry.com', 'Monica', 'Street', '1234567890')
 GO
 
 ---------------------------------------------------------------------------------------------
