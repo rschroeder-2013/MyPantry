@@ -1,0 +1,23 @@
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataTransferObjects.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataTransferObjects.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataTransferObjects.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\bin\Debug\DataTransferObjects.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache

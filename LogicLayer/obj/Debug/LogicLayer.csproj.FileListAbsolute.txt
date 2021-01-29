@@ -1,0 +1,27 @@
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\LogicLayer\bin\Debug\LogicLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\LogicLayer\obj\Debug\LogicLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\LogicLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataTransferObjects.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataTransferObjects.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\LogicLayer.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\LogicLayer.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataAccessLayer.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataTransferObjects.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataAccessLayer.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\bin\Debug\DataTransferObjects.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache

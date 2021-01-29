@@ -1,0 +1,14 @@
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\bin\Debug\MyPantry.exe.config
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\bin\Debug\MyPantry.exe
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\bin\Debug\MyPantry.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\WfpPresentation.csprojAssemblyReference.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MainWindow.g.cs
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\App.g.cs
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MyPantry_MarkupCompile.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MyPantry_MarkupCompile.lref
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MainWindow.baml
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MyPantry.g.resources
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MyPantry.Properties.Resources.resources
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\WfpPresentation.csproj.GenerateResource.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MyPantry.exe
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\MyPantry\obj\Debug\MyPantry.pdb

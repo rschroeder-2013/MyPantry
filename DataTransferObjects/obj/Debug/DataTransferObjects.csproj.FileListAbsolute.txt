@@ -1,0 +1,17 @@
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.csprojAssemblyReference.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.csprojAssemblyReference.cache
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.csprojAssemblyReference.cache
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+H:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+E:\Kirkwood\5_2020FL\.NET Development II\Final\Ver 2\MyPantry\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
