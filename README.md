@@ -2,7 +2,7 @@
 Custom Grocery/Recipe Tracking Software
 
 ## Installation
-As of 1/29/2021, this project can only be run with Visual Studio 2019. This project is currently the MVP, and is not yet completed.
+As of 1/29/2021 this project is currently the MVP, and is not yet completed.
 
 ## Introduction
 This project was created to assist me and my girlfriend to better plan what is bought during grocery runs. This eliminates handwriting a list and potentially omitting required ingredients. All recipes, ingredients, users, and roles are CRUD'd on a custom SQL DB. The softwares layer architecture (presentation, logic, data access, data transfer) was created from scratch (with some assistance from my college professor).
